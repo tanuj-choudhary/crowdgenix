@@ -16,15 +16,15 @@ The major problems with the Current Crowdfunding Platforms that we wanted to sol
 
 ## Screenshots 
 #### Home Page :
-![image](https://ibb.co/bNdz9Wv)
+![image](https://i.ibb.co/P1CwHmW/home-page-half.png)
 ### Campaign Page :
-![image](https://ibb.co/qyCQqXQ)
+![image](https://i.ibb.co/RvNwrZw/campaign-page.png)
 ### Create Campaign Page :
-![image](https://ibb.co/wrzMr2Q)
+![image](https://i.ibb.co/vvjZvMd/create-campaign.png)
 ### Withdrawal Request Page :
-![image](https://ibb.co/WnDB7JH)
+![image](https://i.ibb.co/4gzhtRT/withdrawal-requests.png)
 ### New Withdrawal Request Page :
-![image](https://ibb.co/JFVDtj7)
+![image](https://i.ibb.co/hsX2rzg/create-withdrawal-requests.png)
 
 
 
